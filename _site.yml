@@ -19,6 +19,9 @@ navbar:
     - text: "Interests"
       icon: fa-grin
       href: interests.html
+    - text: "Interests"
+      icon: fa-grin
+      href: interests.html
       # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
