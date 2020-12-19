@@ -8,10 +8,5 @@ title: "Adventures in Deep Time!"
 
 ## What's this? 
 
-A website for a single person (me!) because that's what we do in [Kali Yuga](https://en.wikipedia.org/wiki/Kali_Yuga). Check the [About](about.html) for more information
+A website for a single person (me!) because that's what we do now. Check the [About](about.html) for more information
 
-<br>
-
-## Whats "deep time?" 
-
-You should know, you're sitting in it. 
