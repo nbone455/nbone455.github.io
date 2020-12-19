@@ -8,9 +8,9 @@ title: "About"
 
 # About Nic Bone
 
-Hello! I'm currently a PhD student in the [Uyeda lab](https://www.uyedalab.com/people.html) at Virginia Tech. I started in Fall 2019 (good timing eh?).
+Hello! I'm currently a PhD student in the [Uyeda lab](https://www.uyedalab.com/people.html) at Virginia Tech within the Department of Biological Sciences. I started in Fall 2019 (good timing, eh?). I work on/with/sometimes against [phylogenetic comparative methods](https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods).
 
-Before I was a PhD student I was an undergraduate at [Beloit College](https://en.wikipedia.org/wiki/Beloit_College), a tiny liberal arts college in Wisconsin. There I had the luck of taking an Evolution class which sparked a three year research project trying to find [convergence](https://peabody.yale.edu/exhibits/tree-of-life/convergent-evolution-recurrence-form) in lizard (*Lioleamus* and *Sceloporus*) body size with [Jim Schulte](https://scholar.google.com/citations?user=qvHv7NwAAAAJ&hl=en&oi=sra). During this project I was introduced to the joys of phylogenetic comparative methods.
+Before I was a PhD student I was an undergraduate at [Beloit College](https://en.wikipedia.org/wiki/Beloit_College), a tiny liberal arts college in Wisconsin. There I started a three year research project trying to find [convergence](https://peabody.yale.edu/exhibits/tree-of-life/convergent-evolution-recurrence-form) of body size in two lizard clades (*Lioleamus* and *Sceloporus*) with [Jim Schulte](https://scholar.google.com/citations?user=qvHv7NwAAAAJ&hl=en&oi=sra). During this project I was introduced to the joys of phylogenetic comparative methods, and also their outstanding problems. 
 
 Before that, I was a nerd who liked birding (mainly hawks and owls), making music and trying to figure out how to [port-forward](https://en.wikipedia.org/wiki/Port_forwarding) so I could run my own Minecraft server. The hours of troubleshooting prepared me well for being a PhD student in a computational lab...
 
@@ -18,34 +18,6 @@ My work now focuses on helping comparative biology answer more interesting quest
 
 For my dissertation I am attempting to do this for the problem of avian migration. I'll talk about this more later!
 
+
+
 <br>
-
-# About my interests (in progress)
-
-Since I'm a massive nerd I have a lot of unconnected interests. Unsurprisingly I spend a lot of time researching these interests (a PhD student who does research? what??)
-
-
-### Phylogenetic Comparative Methods 
-
-People much better at both method development and words have written a lot about this field, so here's some good (and free) resources! 
-
-* Luke Harmon's book: https://lukejharmon.github.io/pcm/chapters/
-
-* Rosana Zenil-Ferguson's website: https://roszenil.github.io/portfolio/
-
-* Liam Revell's website: http://blog.phytools.org/
-
-
-### Philosophy 
-Here are some thinkers that are interesting to me. 
-
-* [Massimo Pigliucci](https://massimopigliucci.com/), yes okay he's an Evolutionary biologist but I am putting him here purely for his Stoic stuff, and increasingly interesting [Youtube channel](https://www.youtube.com/user/MassimoPigliucci)
-
-* [Joscha Bach](http://bach.ai/) AI researcher with a good reading on the pulse of AGI or artificial general intelligence. His stance on addresses all of Western thought up until this point, which is impressive. Website is a bit outdated, [this](https://www.youtube.com/watch?v=e3K5UxWRRuY) is a good place to start.
-
-* [Bernardo Kastrup](https://www.bernardokastrup.com/) A rare double PhD in Computer Science and Philosophy, one of the strongest (and only) modern-day proponents of [Idealism](https://en.wikipedia.org/wiki/Idealism) specifically a form where there is nothing but mind. Great debater.
-
-* [Robert LaFleur](http://robert-lafleur.blogspot.com/) Cultural Anthropology & History, has a never-ending interpretation of the Lunar Calendar complete with translation from Chinese to English in addition to many interesting deep-dives on cultural phenomenon
-
-
-
