@@ -1,7 +1,41 @@
 ---
-title: "About me"
+title: "About"
 ---
 
-## Header
+![(very) old mountains](smiley.jpg)
 
-Say more about you here.
+<br>
+
+# About Nic Bone
+
+Hello! I'm currently a PhD student in the [Uyeda lab](https://www.uyedalab.com/people.html) at Virginia Tech. I started in Fall 2019 (good timing eh?).
+
+Before I was a PhD student I was an undergraduate at [Beloit College](https://en.wikipedia.org/wiki/Beloit_College), a tiny liberal arts college in Wisconsin. Before that, I was a nerd who liked birding (mainly hawks and owls), and trying to figure out how to [port-forward](https://en.wikipedia.org/wiki/Port_forwarding) so I could run my own Minecraft server. In terms of the amount of time I spend trouble-shooting, this was equivalent to being a PhD student in a computational lab.
+
+My work now focuses on helping comparative biology answer more interesting questions by improving our methodology. This usually means making our computational methods match our biological assumptions and observations, and is surprisingly difficult (for me at least.)
+
+For my dissertation I am attempting to do this for the problem of avian migration. I'll talk about this more when I do more it! 
+
+<br>
+
+# About Phylogenetic Comparative Methods 
+
+People much better at both method development and words have written a lot about this field, so here's some good (and free) resources! 
+
+### A (non-exhaustive) List 
+
+* Luke Harmon's book: https://lukejharmon.github.io/pcm/chapters/
+
+* Liam Revell's website (do you need an "L" name to work in this field?):
+http://blog.phytools.org/
+
+
+
+
+
+# About my other interests 
+
+Since I'm a massive nerd I have a lot of unconnected interests. Unsurprisingly I spend a lot of time researching these interests (a PhD student who does research? what??)
+
+
+

@@ -15,7 +15,7 @@ navbar:
       href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://nbone455.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: blog.html # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
@@ -25,5 +25,5 @@ navbar:
       href: https://github.com/nbone455      # CHANGE HERE 
 output:
   html_document:
-    theme: journal
-    highlight: textmate
+    theme: united
+    highlight: tango
