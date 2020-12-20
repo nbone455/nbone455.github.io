@@ -19,10 +19,9 @@ navbar:
     - text: "Interests"
       icon: fa-grin
       href: interests.html
-    - text: "Interests"
-      icon: fa-grin
-      href: interests.html
-      # CHANGE HERE OR DELETE ALL 3 LINES 
+    - text: "Archive"
+      icon: fa-folder
+      href: archive.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

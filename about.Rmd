@@ -4,20 +4,18 @@ title: "About"
 
 ![trying not to fall](smiley.jpg)
 
-<br>
-
 # About Nic Bone
 
-Hello! I'm currently a PhD student in the [Uyeda lab](https://www.uyedalab.com/people.html) at Virginia Tech within the Department of Biological Sciences. I started in Fall 2019 (good timing, eh?). I work on/with/sometimes against [phylogenetic comparative methods](https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods).
+Hello! I'm a PhD student in the [Uyeda lab](https://www.uyedalab.com/people.html) at Virginia Tech within the Department of Biological Sciences. I started in Fall 2019 (good timing, eh?). Currently I am a [NSF GRFP](https://www.nsfgrfp.org/) and [Interfaces of Global Change](https://www.globalchange.vt.edu/igc/) fellow.
 
-Before I was a PhD student I was an undergraduate at [Beloit College](https://en.wikipedia.org/wiki/Beloit_College), a tiny liberal arts college in Wisconsin. There I started a three year research project trying to find [convergence](https://peabody.yale.edu/exhibits/tree-of-life/convergent-evolution-recurrence-form) of body size in two lizard clades (*Lioleamus* and *Sceloporus*) with [Jim Schulte](https://scholar.google.com/citations?user=qvHv7NwAAAAJ&hl=en&oi=sra). During this project I was introduced to the joys of phylogenetic comparative methods, and also their outstanding problems. 
+I work on/with/sometimes against [phylogenetic comparative methods](https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods). 
 
-Before that, I was a nerd who liked birding (mainly hawks and owls), making music and trying to figure out how to [port-forward](https://en.wikipedia.org/wiki/Port_forwarding) so I could run my own Minecraft server. The hours of troubleshooting prepared me well for being a PhD student in a computational lab...
+Before I was a PhD student I was an undergraduate at [Beloit College](https://en.wikipedia.org/wiki/Beloit_College), a tiny liberal arts college in Wisconsin. There I started a three year research project trying to find [convergence](https://peabody.yale.edu/exhibits/tree-of-life/convergent-evolution-recurrence-form) of body size in two lizard clades (*Lioleamus* and *Sceloporus*) with [Jim Schulte](https://scholar.google.com/citations?user=qvHv7NwAAAAJ&hl=en&oi=sra). During this project I was introduced to the joys of phylogenetic comparative methods, presented at the best conference ever ([s/o LSAMP/McNair](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=13646&WT.mc_id=USNSF_180)), and then also realized comparative methods have tons of unsolved problems.
 
-My work now focuses on helping comparative biology answer more interesting questions by improving our methodology. This usually means making our computational methods match our biological assumptions and observations in order to get to the **causes** of macroevolutionary change. Basically, making our statistics answer the questions we actually want to answer.
+Even before that, I was a nerd who liked birding (mainly hawks and owls), making music and trying to figure out how to [port-forward](https://en.wikipedia.org/wiki/Port_forwarding) so I could run my own Minecraft server. The hours of troubleshooting prepared me well for being a PhD student in a computational lab...
 
-For my dissertation I am attempting to do this for the problem of avian migration. I'll talk about this more later!
+My work now focuses on helping comparative biology answer more interesting questions by improving our methodology. This usually means making our computational methods match our biological assumptions and observations in order to get to the **causes** of macroevolutionary change. For instance, hard-to-encode traits (traits that don't have easily quantifiable states) may evolve in ways we wouldn't expect with our normal models, and yet we (comparative biologists) may treat them the same as normal traits in our models. Depending on what kinds of questions we're trying to answer, this may be a big problem. These are the kinds of problems I'm interested in. 
 
-
+For my dissertation, I am attempting to represent one hard-to-encode trait, avian migration, using [structured hidden Markov models](archive.html). I'll talk about this more later!
 
 <br>

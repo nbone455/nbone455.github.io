@@ -36,33 +36,35 @@ People much better at both method development and words have written a lot about
 
 ### Philosophy
 
-<br>
-
 #### Books 
 
-Books I've read in the last couple years that have made a substantial impact on how I thought about whatever subject. 
+Books I've read in the last couple years that have made a substantial impact on how I thought about whatever subject 
 
-* The Book of Why by Judea Pearl and Dana Mackenzie
+* [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie
 
-* Red White and Black by Frank B. Wilderson III
+* [Red White and Black](https://www.dukeupress.edu/red-white-and-black) by Frank B. Wilderson III
 
-* Historical Dynamics: Why States Rise and Fall by Peter Turchin
+* [Rationality for mortals](https://psycnet.apa.org/record/2008-04868-000) by Gerd Gigerenzer
 
-* Psychopolitics by Byung-Chul Han
+* [Historical Dynamics: Why States Rise and Fall](https://www.jstor.org/stable/j.ctt1wf4d45) by Peter Turchin **an evolutionary biologist!**
 
-* Capitalist Realism by Mark Fisher
+* [Psychopolitics](https://www.penguinrandomhouse.com/books/557122/psychopolitics-by-byung-chul-han/) by Byung-Chul Han
 
-* The Denial of Death by Ernest Becker
+* [The Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death) by Ernest Becker **this book ruined my sophomore year of college**
+
+* more to come as I remember and read more 
 
 
 #### Thinkers
-Here are some thinkers that are interesting to me. 
+Here are some philosophical thinkers that are interesting to me. 
 
-* [Massimo Pigliucci](https://massimopigliucci.com/), yes okay he's an Evolutionary biologist but I am putting him here purely for his Stoic stuff, and increasingly interesting [Youtube channel](https://www.youtube.com/user/MassimoPigliucci)
+* [Massimo Pigliucci](https://massimopigliucci.com/) Yes, okay, he's an evolutionary biologist but I am putting him here purely for his Stoicism stuff, and increasingly interesting [Youtube channel](https://www.youtube.com/user/MassimoPigliucci)
 
 * [Joscha Bach](http://bach.ai/) AI researcher with a good reading on the pulse of AGI or artificial general intelligence. His philosophical stance addresses all of Western thought up until this point, which is impressive. Website is a bit outdated, [this](https://www.youtube.com/watch?v=e3K5UxWRRuY) is a good place to start. 
 
-* [Bernardo Kastrup](https://www.bernardokastrup.com/) A rare double PhD in Computer Science and Philosophy, one of the strongest (and only) modern-day proponents of [Idealism](https://en.wikipedia.org/wiki/Idealism) specifically a form where there is nothing but mind. Great debater.
+* [Bernardo Kastrup](https://www.bernardokastrup.com/)  PhD in both Computer Science and Philosophy, one of the strongest (and only) modern-day proponents of [Idealism](https://en.wikipedia.org/wiki/Idealism) specifically a form where there is nothing but mind. Great debater.
+
+* [Peter Turchin](http://peterturchin.com/) an evolutionary biologist who tries to study how societies evolve. Lots of cool stuff on his website and books.
 
 * [Robert LaFleur](http://robert-lafleur.blogspot.com/) Cultural Anthropology & History, teaches at Beloit!, has a never-ending interpretation of the Lunar Calendar complete with translation from Chinese to English in addition to many interesting deep-dives on cultural phenomenon.
 
