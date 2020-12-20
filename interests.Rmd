@@ -8,17 +8,17 @@ Since I'm a massive nerd I have a lot of interests. The following section is goi
 
 <br> 
 
-### Music, Audio engineering 
+### Music & Audio engineering 
 
-It's easy to record good-sounding music (don't listen to people who tell you otherwise!). I think everyone should at least try it, so I collected some basic suggestions and recommendations.
+It's easy to record good-sounding music (don't listen to people who tell you otherwise!). I think everyone should at least try it, so I collected some basic suggestions and recommendations 
 
-* You can use basically free, open-source software to record good-sounding music: [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/)
+* You can use basically free, open-source software to record: [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/). There are lots of tutorials (like [this](https://www.youtube.com/watch?v=iQM12Rx0Hf0)), but you can usually figure out what you need from the manual + googling. If you're not an open-source snob (or you're loaded) you can use [FL Studio](https://www.image-line.com/) or [Ableton](https://www.ableton.com/en/)
 
-* I use [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) to download samples from youtube and remix them into beats/remixes
+* I use [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) to download samples from youtube and remix them into beats/remixes. 
 
-* For recording acoustic instruments or voices, you'll usually want a compressor microphone, which requires something called 'phantom power' (it's just a small electrical charge). The best way to do this (cheaply) is to get something like [this](https://www.amazon.com/Audio-Technica-ATR2500x-USB-Condenser-Microphone-ATR/dp/B07ZPC2FMQ/ref=pd_lpo_267_t_2/141-7695160-3538928?_encoding=UTF8&pd_rd_i=B07ZPC2FMQ&pd_rd_r=d24b545a-d0d5-4c69-8d7e-a287bb0467dc&pd_rd_w=xvZ9L&pd_rd_wg=n4Hgp&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=0QZECGNG0YQMWCZC27HN&psc=1&refRID=0QZECGNG0YQMWCZC27HN) although there are plenty of other options.
+* For recording acoustic instruments or vocals straight to your computer, you'llwant a compressor microphone which traditionally needs 'phantom power' from an audio-interface. The best way to do get around this (cheaply) is to get something like [this mic](https://www.amazon.com/Audio-Technica-ATR2500x-USB-Condenser-Microphone-ATR/dp/B07ZPC2FMQ/ref=pd_lpo_267_t_2/141-7695160-3538928?_encoding=UTF8&pd_rd_i=B07ZPC2FMQ&pd_rd_r=d24b545a-d0d5-4c69-8d7e-a287bb0467dc&pd_rd_w=xvZ9L&pd_rd_wg=n4Hgp&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=0QZECGNG0YQMWCZC27HN&psc=1&refRID=0QZECGNG0YQMWCZC27HN) although there are plenty of other options.
 
-* W.I.P
+* I skip the above by using an audio interface ([Scarlett Solo](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-solo)) to plug my microphones/instruments into. 
 
 <br>
 
@@ -31,6 +31,8 @@ People much better at both method development and words have written a lot about
 * Rosana Zenil-Ferguson's website: https://roszenil.github.io/portfolio/
 
 * Liam Revell's website: http://blog.phytools.org/
+
+* Brian O'Meara's website: http://brianomeara.info/ **this website really has it all**
 
 <br>
 
@@ -55,8 +57,8 @@ Books I've read in the last couple years that have made a substantial impact on 
 * more to come as I remember and read more 
 
 
-#### Thinkers
-Here are some philosophical thinkers that are interesting to me. 
+#### Thinkers (Living)
+Here are some living philosophical thinkers that are interesting to me. 
 
 * [Massimo Pigliucci](https://massimopigliucci.com/) Yes, okay, he's an evolutionary biologist but I am putting him here purely for his Stoicism stuff, and increasingly interesting [Youtube channel](https://www.youtube.com/user/MassimoPigliucci)
 
