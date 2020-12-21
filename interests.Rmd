@@ -24,13 +24,21 @@ Outside of science, music is my biggest interest. I spend a lot of my free time 
   
   - [Chinese Football -- Electronic Girl](https://www.youtube.com/watch?v=X2goYUJpq9k)
   
-* funk (**I started learning the bass at 13 to try to play Jackson 5 songs**)
+* old funk (**I started learning the bass at 13 to try to play Jackson 5 songs**)
 
   - [Sly & The Family Stone -- Ha Ha, Hee Hee](https://www.youtube.com/watch?v=m0GjKyAEePk)
   
   - [Herbie Hancock -- Gentle Thoughts ](https://www.youtube.com/watch?v=CgowvFGzIvA)
   
   - [Billy Preston -- outa-space](https://www.youtube.com/watch?v=uQaS9kJc-O4)
+  
+* new funk?
+
+  - [Anderson Paak -- Cheers](https://www.youtube.com/watch?v=_z58W1-uGio)
+  
+  - [Khruangbin -- Evan Finds the Third Room](https://www.youtube.com/watch?v=5YkmBaoKBS0)
+  
+  - [Cory Henry -- Think for Yourself (cover)](https://www.youtube.com/watch?v=B9JUr4JTuJo) **this guy was a child prodigy on gospel organ, insane talent**
   
 * afrobeats
   
@@ -85,9 +93,6 @@ Books I've read in the last couple years that have made a substantial impact on 
 
 * [The Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death) by Ernest Becker **this book ruined my sophomore year of college**
 
-* more to come as I remember and read more 
-
-
 #### Thinkers (Living)
 Here are some living philosophical thinkers that are interesting to me. 
 
@@ -101,22 +106,25 @@ Here are some living philosophical thinkers that are interesting to me.
 
 * [David Chapman](https://meaningness.com/) another AI researcher turned philosopher, attempts to solve the ["meaning crisis"](https://awakeningfromthemeaningcrisis.com/)(coined by John Vervaeke -- another interesting thinker). Very commendable (if not too dense) on-line book, 10/10 would recommend.
 
+* [Donald Hoffman](https://www.cogsci.uci.edu/~ddhoff/) Cognitive scientist who studies visual systems and works on the consciousness 'problem'. Uses evolutionary theory to hypothesize conscious subjects don't see 'real' reality, just whatever gives the best fitness -- like a virtual reality. Very interesting ideas that seem testable with evolutionary models.
+
 * [Robert LaFleur](http://robert-lafleur.blogspot.com/) Cultural Anthropology & History, **teaches at Beloit!**, has a never-ending interpretation of the Lunar Calendar complete with translation from Chinese to English in addition to many interesting deep-dives on cultural phenomenon.
 
 * more to add
 
 #### Thinkers (not-living) 
-Gonna skip the 'normies' of philosophy (Plato, Kant, Camus, Schopenhauer yadda yadda) and try to highlight some "weirdos" I like
+
 
 * [Han-Shan (Cold Mountain)](https://en.wikipedia.org/wiki/Hanshan_(poet)) was he real? who knows! One of the many mountain recluses in the Chinese Buddhist/Daoist tradition, has some beautiful poems (some originally written on rocks, cliff-faces).
 
 * [Diogenes](https://en.wikipedia.org/wiki/Diogenes) a Greek philosopher who spent his days in a barrel. His only possession was a wooden bowl which he drank from. When he saw dogs drinking from directly from the river, he threw his bowl away. Founded the 'Cynic" philosophy, which is about being in harmony with nature/the state of things. Interesting guy.
-
-* more to add 
 
 
 ### Open-source software
 
 * vim + pandoc + RMarkdown is amazing for creating documents (my vim [config](https://github.com/nbone455/personal-config))
 
-* I like [ranger](https://ranger.github.io/) cause I have gotten used to vim. If you don't like vim you won't like this
+* I like [ranger](https://ranger.github.io/) cause I have gotten used to vim. If you don't like vim you won't like this. Apparently [lf](https://github.com/gokcehan/lf) is similar but faster (ranger is written in python so it aint fast)
+
+* huge repository of minimal software (https://suckless.org/)
+
