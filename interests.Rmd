@@ -1,15 +1,47 @@
 ---
 title: "Interests"
+output: 
+  html_document:
+              toc: true
 ---
-![](bass.jpg)
+![jammin out](bass.jpg)
 
-The following section is going to be like when a person "info-dumps" on you at a party because you accidentally said the right word or phrase (e.g. 'the civil war was about ...' or 'what's your favorite band?'). Since this is my website, and therefore my party, I will proceed with the info-dump:
+The following section is going to be like when a person "info-dumps" on you at a party because you accidentally said the right word or phrase (e.g. 'the Civil War was actually about ...' or 'what's your favorite band?'). Since this is my website, and therefore my party, I will proceed with the info-dump:
 
 <br> 
 
-### Music & Audio engineering 
+### Music 
 
-It's easy to record good-sounding music (don't listen to people who tell you otherwise!). I think everyone should at least try it, so I collected some basic suggestions and recommendations 
+Outside of science, music is my biggest interest. I spend a lot of my free time making, remixing, collecting or listening to music. 
+
+#### Genres I like 
+
+* math rock, specifically melodic stuff like this
+
+  - [Elephant Gym -- Finger](https://www.youtube.com/watch?v=bikIdnMf2gs)
+  
+  - [Chon -- Sleepy Tea](https://www.youtube.com/watch?v=0pdfn4KmPk4)
+  
+  - [Chinese Football -- Electronic Girl](https://www.youtube.com/watch?v=X2goYUJpq9k)
+  
+* funk (**I started learning the bass at 13 to try to play Jackson 5 songs**)
+
+  - [Sly & The Family Stone -- Ha Ha, Hee Hee](https://www.youtube.com/watch?v=m0GjKyAEePk)
+  
+  - [Herbie Hancock -- Gentle Thoughts ](https://www.youtube.com/watch?v=CgowvFGzIvA)
+  
+  - [Billy Preston -- outa-space](https://www.youtube.com/watch?v=uQaS9kJc-O4)
+  
+* afrobeats
+  
+  - [Joeboy -- Call](https://www.youtube.com/watch?v=ZUSnoIpevMM)
+  - [Iyanya -- Ijeoma](https://www.youtube.com/watch?v=P-r9_jpXtPw)
+  
+  - [Burna Boy -- On the Low](https://www.youtube.com/watch?v=UFsskuvj8GQ)
+  
+#### Recording / Audio engineering 
+
+It's easy to record good-sounding music (don't listen to people who tell you otherwise!). I think everyone should at least try it, so I collected some basic suggestions and recommendations from my experience
 
 * You can use basically free, open-source software to record: [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/). There are lots of tutorials (like [this](https://www.youtube.com/watch?v=iQM12Rx0Hf0)), but you can usually figure out what you need from the manual + googling. If you're not an open-source snob (or you're loaded) you can use [FL Studio](https://www.image-line.com/) or [Ableton](https://www.ableton.com/en/)
 
@@ -35,11 +67,11 @@ People much better at both method development and words have written a lot about
 
 <br>
 
-### Philosophy
+### Philosophy & History
 
 #### Books 
 
-Books I've read in the last couple years that have made a substantial impact on how I thought about whatever subject 
+Books I've read in the last couple years that have made a substantial impact on how I thought about whatever subject:
 
 * [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie
 
@@ -65,14 +97,26 @@ Here are some living philosophical thinkers that are interesting to me.
 
 * [Bernardo Kastrup](https://www.bernardokastrup.com/)  PhD in both Computer Science and Philosophy, one of the strongest (and only) modern-day proponents of [Idealism](https://en.wikipedia.org/wiki/Idealism) specifically a form where there is nothing but mind. Great debater.
 
-* [Peter Turchin](http://peterturchin.com/) an evolutionary biologist who tries to study how societies evolve. Lots of cool stuff on his website and books.
+* [Peter Turchin](http://peterturchin.com/) an evolutionary biologist who tries to study how societies evolve. Not sure he would consider himself a philosopher. Lots of cool stuff on his website and books.
 
-* [Robert LaFleur](http://robert-lafleur.blogspot.com/) Cultural Anthropology & History, teaches at Beloit!, has a never-ending interpretation of the Lunar Calendar complete with translation from Chinese to English in addition to many interesting deep-dives on cultural phenomenon.
+* [David Chapman](https://meaningness.com/) another AI researcher turned philosopher, attempts to solve the ["meaning crisis"](https://awakeningfromthemeaningcrisis.com/)(coined by John Vervaeke -- another interesting thinker). Very commendable (if not too dense) on-line book, 10/10 would recommend.
 
+* [Robert LaFleur](http://robert-lafleur.blogspot.com/) Cultural Anthropology & History, **teaches at Beloit!**, has a never-ending interpretation of the Lunar Calendar complete with translation from Chinese to English in addition to many interesting deep-dives on cultural phenomenon.
 
-* W.I.P 
+* more to add
+
+#### Thinkers (not-living) 
+Gonna skip the 'normies' of philosophy (Plato, Kant, Camus, Schopenhauer yadda yadda) and try to highlight some "weirdos" I like
+
+* [Han-Shan (Cold Mountain)](https://en.wikipedia.org/wiki/Hanshan_(poet)) was he real? who knows! One of the many mountain recluses in the Chinese Buddhist/Daoist tradition, has some beautiful poems (some originally written on rocks, cliff-faces).
+
+* [Diogenes](https://en.wikipedia.org/wiki/Diogenes) a Greek philosopher who spent his days in a barrel. His only possession was a wooden bowl which he drank from. When he saw dogs drinking from directly from the river, he threw his bowl away. Founded the 'Cynic" philosophy, which is about being in harmony with nature/the state of things. Interesting guy.
+
+* more to add 
+
 
 ### Open-source software
 
 * vim + pandoc + RMarkdown is amazing for creating documents (my vim [config](https://github.com/nbone455/personal-config))
 
+* I like [ranger](https://ranger.github.io/) cause I have gotten used to vim. If you don't like vim you won't like this

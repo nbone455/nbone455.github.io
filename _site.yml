@@ -26,6 +26,9 @@ navbar:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:nicbone@vt.edu                    # CHANGE HERE 
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/Nic_Bone
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/nbone455      # CHANGE HERE 
