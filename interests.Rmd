@@ -96,11 +96,9 @@ Books I've read in the last couple years that have made a substantial impact on 
 #### Thinkers (Living)
 Here are some living philosophical thinkers that are interesting to me. 
 
-* [Massimo Pigliucci](https://massimopigliucci.com/) Yes, okay, he's an evolutionary biologist but I am putting him here purely for his Stoicism stuff, and increasingly interesting [Youtube channel](https://www.youtube.com/user/MassimoPigliucci)
+* [Joscha Bach](http://bach.ai/) AI researcher with a focus on AGI or artificial general intelligence. His philosophical stance (based around a computational explanation for consciousness) addresses a lot of Western philosophy up until this point in a scientific framework, which is impressive. Website is a bit outdated, [this](https://www.youtube.com/watch?v=e3K5UxWRRuY) is a good place to start. 
 
-* [Joscha Bach](http://bach.ai/) AI researcher with a good reading on the pulse of AGI or artificial general intelligence. His philosophical stance addresses all of Western thought up until this point, which is impressive. Website is a bit outdated, [this](https://www.youtube.com/watch?v=e3K5UxWRRuY) is a good place to start. 
-
-* [Bernardo Kastrup](https://www.bernardokastrup.com/)  PhD in both Computer Science and Philosophy, one of the strongest (and only) modern-day proponents of [Idealism](https://en.wikipedia.org/wiki/Idealism) specifically a form where there is nothing but mind. Great debater.
+* [Bernardo Kastrup](https://www.bernardokastrup.com/) PhD in both Computer Science and Philosophy, one of the strongest (and only) modern-day proponents of [Idealism](https://en.wikipedia.org/wiki/Idealism) specifically a form where there is nothing but mind. Great debater, intellectually a 'mirror' to Bach.
 
 * [Peter Turchin](http://peterturchin.com/) an evolutionary biologist who tries to study how societies evolve. Not sure he would consider himself a philosopher. Lots of cool stuff on his website and books.
 
@@ -114,6 +112,7 @@ Here are some living philosophical thinkers that are interesting to me.
 
 #### Thinkers (not-living) 
 
+* [Erwin Schrödinger, specifically his lectures on the basis of life 'What is Life?'](https://en.wikipedia.org/wiki/What_Is_Life%3F) Famous quantum physicist, might know about the whole cat thing. Gave a series of lectures in 1944 on how life exists from first principles, and the resulting philosophy predicted a crystalline structure that transmits information through generations (hmm). 
 
 * [Han-Shan (Cold Mountain)](https://en.wikipedia.org/wiki/Hanshan_(poet)) was he real? who knows! One of the many mountain recluses in the Chinese Buddhist/Daoist tradition, has some beautiful poems (some originally written on rocks, cliff-faces).
 
