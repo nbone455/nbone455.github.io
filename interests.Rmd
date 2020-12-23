@@ -1,14 +1,14 @@
 ---
 title: "Interests"
 output: 
-  html_document:
-              toc: true
+  rmdformats::downcute:
+    highlight: tango
+    toc_depth: 4
 ---
 ![jammin out](bass.jpg)
 
 The following section is going to be like when a person "info-dumps" on you at a party because you accidentally said the right word or phrase (e.g. 'the Civil War was actually about ...' or 'what's your favorite band?'). Since this is my website, and therefore my party, I will proceed with the info-dump:
 
-<br> 
 
 ### Music 
 

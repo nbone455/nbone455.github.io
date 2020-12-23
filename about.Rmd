@@ -1,5 +1,6 @@
 ---
 title: "About"
+output: rmdformats::downcute
 ---
 
 ![trying not to fall](smiley.jpg)

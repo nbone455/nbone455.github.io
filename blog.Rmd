@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+output: rmdformats::downcute
 ---
 
 This will be a mostly empty place, which is for the best!
