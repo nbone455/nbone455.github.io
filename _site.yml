@@ -11,8 +11,11 @@ navbar:
       icon: fa-user 
       href: about.html
     - text: "CV"
-      icon: fa-file-pdf-o
+      icon: fa-file-pdf
       href: cv.html
+    - text: "Research"
+      icon: fa-book-open
+      href: research.html
     - text: "Blog"
       icon: fa-rss
       href: blog.html
@@ -24,7 +27,7 @@ navbar:
       href: archive.html
   right:
     - text: "Contact me"
-      icon: fa-envelope-o
+      icon: fa-envelope
       href: mailto:nicbone@vt.edu                    # CHANGE HERE 
     - text: "Twitter"
       icon: fa-twitter
