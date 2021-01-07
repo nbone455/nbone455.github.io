@@ -2,7 +2,6 @@ name: "Nic Bone"                                # CHANGE HERE
 output_dir: "."
 navbar:
   title: "Nic Bone"                             # CHANGE HERE 
-  type: inverse
   left:
     - text: "Home"
       icon: fa-home
@@ -36,4 +35,4 @@ navbar:
       icon: fa-github
       href: https://github.com/nbone455      # CHANGE HERE 
 output:
-    rmdformats::downcute
+    rmdformats::readthedown
