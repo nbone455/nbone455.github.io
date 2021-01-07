@@ -1,10 +1,12 @@
 ---
-title: "Research"
+title: ""
 output: 
-  rmdformats::downcute:
+  rmdformats::readthedown:
     highlight: tango
-    toc_depth: 4
+    toc_depth: 3
 ---
+
+(in progress)
 
 Currently my research focuses on finding better ways to model the evolution of hard-to-encode traits. 
 
@@ -22,8 +24,7 @@ These birds are considered an example of  a 'regular' or 'obligate' migrant. The
 
 ## Wait, so what's evolving?
 
-Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) ...but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait 'space' -- the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would **expect** to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us ... ([I tried this]())
+Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) ...but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait 'space' -- the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would **expect** to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us ... ([I tried this for my Data Analytics class]())
 
 
 
-## when 
