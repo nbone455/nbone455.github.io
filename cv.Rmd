@@ -1,7 +1,7 @@
 ---
-title: "CV"
-output: rmdformats::downcute
+title: ""
 ---
+<br>
 
 <a href="CV.pdf#" class="download" title="Download current CV as PDF">Download CV</a>			
 

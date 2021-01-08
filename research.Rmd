@@ -16,7 +16,7 @@ Currently my research focuses on finding better ways to model the evolution of h
 
 ## What is a hard-to-encode trait?
 
-When comparative biologists want to model the evolution of phenotypic traits across a phylogeny, they have to make some decisions about how to describe and quantify that trait. This is called [character construction]() and it usually is pretty arbitrary, based on whatever the researcher is interested in, which can ocassionally cause problems. Let's use avian migration as an example trait since birds are cool (no citation needed). 
+When comparative biologists want to model the evolution of phenotypic traits across a phylogeny, they have to make some decisions about how to describe and quantify that trait. This is called [character construction](https://www.britannica.com/science/character-biology) and it usually is pretty arbitrary, based on whatever the researcher is interested in, which can ocassionally cause problems. Let's use avian migration as an example trait since birds are cool (no citation needed). 
 
 You probably know that some bird species migrate huge distances every year like clockwork. Warblers, for instance, leave Northern North America in the fall to spend the winter in Central & South America, then predictably return each spring.
 
