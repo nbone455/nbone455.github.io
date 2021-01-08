@@ -2,6 +2,9 @@
 title: ""
 ---
 <br>
+
+# About
+
 ![trying not to fall](smiley.jpg){width=80%}
 
 I'm a PhD student in the [Uyeda lab](https://www.uyedalab.com/people.html) at Virginia Tech in the Evolutionary, Ecological and Behavioral Biology group. I started in Fall 2019 (good timing, eh?). Currently I am a [NSF GRFP](https://www.nsfgrfp.org/) and [Interfaces of Global Change](https://www.globalchange.vt.edu/igc/) fellow. I work on/with/sometimes against [phylogenetic comparative methods](https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods). 
