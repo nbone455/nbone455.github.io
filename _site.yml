@@ -1,7 +1,7 @@
 name: "Nic Bone"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Nic Bone"                             # CHANGE HERE 
+  title: "Nic Bone"
   left:
     - text: "Home"
       icon: fa-home
@@ -32,7 +32,7 @@ navbar:
       icon: fa-twitter
       href: https://twitter.com/Nic_Bone
     - text: "GitHub"
-      icon: fa-github
+      icon: fa-github-alt
       href: https://github.com/nbone455      # CHANGE HERE 
 output:
     rmdformats::readthedown
