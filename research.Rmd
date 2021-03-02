@@ -8,13 +8,17 @@ output:
 
 <br>
 
-# Research 
+# Research interests
 
-**This page is still being made**
+I'm generally interested in making better methods for evolutionary biology via the use of new tools from computer science and statistics. So far this has included: using machine learning to classify traits based on citizen science datasets, finding the best way to model the evolution of complex discrete phenotypes, and figuring out how to represent phylogenetic information in  standard classification algorithms. 
 
-Currently my research focuses on finding better ways to model the evolution of hard-to-encode traits. 
+**This page is in progress (and will be for a while, lol)**
 
-## What is a hard-to-encode trait?
+## Dissertation Research
+
+Currently my disseration research focuses on finding better ways to model the evolution of hard-to-encode traits. 
+
+### What is a hard-to-encode trait?
 
 When comparative biologists want to model the evolution of phenotypic traits across a phylogeny, they have to make some decisions about how to describe and quantify that trait. This is called [character construction](https://www.britannica.com/science/character-biology) and it usually is pretty arbitrary, based on whatever the researcher is interested in, which can ocassionally cause problems. Let's use avian migration as an example trait since birds are cool (no citation needed). 
 
@@ -26,11 +30,15 @@ knitr::include_graphics("pnas_f1.jpg")
 ```
 
 
-These birds are considered an example of  a 'regular' or 'obligate' migrant. The conditions which tell them when to leave (known as [phenology]()), the path which they travel and where they go to are all pretty much the same year to year, within a population. Now people that *really* study birds may disagree with this, which is exactly why migration is such a difficult character/trait to encode.
+These birds are considered an example of a 'regular' or 'obligate' migrant. This means that the timing of when they they leave, the path they travel and where they end up stays  basically the same year-to-year, within a population. Now people that study certain groups of birds may disagree with the specifics of this definition, which is exactly why migration is such a difficult character/trait to encode.
 
-## Wait, so what's evolving?
+Other birds may migrate more erratically: leaving at seemingly randomly times, following different paths and/or ending up in very different places year-to-year. Some may not migrate at all one year (or couple of years) and migrate regularly for another series of years. These irregular migrants are categorized into .... but the group of non-regular migrants is usually called partial migration (as opposed to obligate migration). This includes a lot of lifestyles! 
 
-Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) ...but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait 'space' -- the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would **expect** to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us ... ([I tried this for my Data Analytics class]())
+Theres also non-migration (although there's a lot of ways to not migrate [as well](torpor link)) . Wew that's a lot. 
+
+### Wait, so what's evolving?
+
+Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) ...but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait 'space' -- the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would **expect** to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us ... ([I tried this for a Data Analytics class project]())
 
 
 # References 

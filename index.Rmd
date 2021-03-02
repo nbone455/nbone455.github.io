@@ -6,6 +6,6 @@ title: ""
 
 ## What's this? 
 
-It's a website for **Nic Bone**, a PhD student in the [Uyeda lab](https://www.uyedalab.com/) at Virginia Tech, studying how to best represent complex traits with phylogenetic comparative methods. Check the [About](about.html) for more information.
+It's a website for **Nic Bone**, currently a PhD student in the [Uyeda lab](https://www.uyedalab.com/) at Virginia Tech, studying how to best represent complex traits with phylogenetic comparative methods. Check the [About](about.html) for more information.
 
 ![](attempt.jpg)

@@ -214,10 +214,13 @@
     <h2><a href="#content"></a></h2>
     <div id="toc">
       <ul>
-      <li><a href="#research">Research</a>
+      <li><a href="#research-interests">Research interests</a>
+      <ul>
+      <li><a href="#dissertation-research">Dissertation Research</a>
       <ul>
       <li><a href="#what-is-a-hard-to-encode-trait">What is a hard-to-encode trait?</a></li>
       <li><a href="#wait-so-whats-evolving">Wait, so what’s evolving?</a></li>
+      </ul></li>
       </ul></li>
       <li><a href="#references">References</a></li>
       </ul>
@@ -233,12 +236,15 @@
 <!-- Don't indent these lines or it will mess pre blocks indentation --> 
 <div id="main">
 <p><br></p>
-<div id="research" class="section level1">
-<h1>Research</h1>
-<p><strong>This page is still being made</strong></p>
-<p>Currently my research focuses on finding better ways to model the evolution of hard-to-encode traits.</p>
-<div id="what-is-a-hard-to-encode-trait" class="section level2">
-<h2>What is a hard-to-encode trait?</h2>
+<div id="research-interests" class="section level1">
+<h1>Research interests</h1>
+<p>I’m generally interested in making better methods for evolutionary biology via the use of new tools from computer science and statistics. So far this has included: using machine learning to classify traits based on citizen science datasets, finding the best way to model the evolution of complex discrete phenotypes, and figuring out how to represent phylogenetic information in standard classification algorithms.</p>
+<p><strong>This page is in progress (and will be for a while, lol)</strong></p>
+<div id="dissertation-research" class="section level2">
+<h2>Dissertation Research</h2>
+<p>Currently my disseration research focuses on finding better ways to model the evolution of hard-to-encode traits.</p>
+<div id="what-is-a-hard-to-encode-trait" class="section level3">
+<h3>What is a hard-to-encode trait?</h3>
 <p>When comparative biologists want to model the evolution of phenotypic traits across a phylogeny, they have to make some decisions about how to describe and quantify that trait. This is called <a href="https://www.britannica.com/science/character-biology">character construction</a> and it usually is pretty arbitrary, based on whatever the researcher is interested in, which can ocassionally cause problems. Let’s use avian migration as an example trait since birds are cool (no citation needed).</p>
 <p>You probably know that some bird species migrate huge distances every year like clockwork. Warblers, for instance, leave Northern North America in the fall to spend the winter in Central &amp; South America, then predictably return each spring.</p>
 <div class="figure" style="text-align: center">
@@ -247,11 +253,14 @@
 Warbler migratory paths, Toews et al. 2019
 </p>
 </div>
-<p>These birds are considered an example of a ‘regular’ or ‘obligate’ migrant. The conditions which tell them when to leave (known as <a href="">phenology</a>), the path which they travel and where they go to are all pretty much the same year to year, within a population. Now people that <em>really</em> study birds may disagree with this, which is exactly why migration is such a difficult character/trait to encode.</p>
+<p>These birds are considered an example of a ‘regular’ or ‘obligate’ migrant. This means that the timing of when they they leave, the path they travel and where they end up stays basically the same year-to-year, within a population. Now people that study certain groups of birds may disagree with the specifics of this definition, which is exactly why migration is such a difficult character/trait to encode.</p>
+<p>Other birds may migrate more erratically: leaving at seemingly randomly times, following different paths and/or ending up in very different places year-to-year. Some may not migrate at all one year (or couple of years) and migrate regularly for another series of years. These irregular migrants are categorized into …. but the group of non-regular migrants is usually called partial migration (as opposed to obligate migration). This includes a lot of lifestyles!</p>
+<p>Theres also non-migration (although there’s a lot of ways to not migrate <a href="torpor%20link">as well</a>) . Wew that’s a lot.</p>
 </div>
-<div id="wait-so-whats-evolving" class="section level2">
-<h2>Wait, so what’s evolving?</h2>
-<p>Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) …but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait ‘space’ – the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would <strong>expect</strong> to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us … (<a href="">I tried this for my Data Analytics class</a>)</p>
+<div id="wait-so-whats-evolving" class="section level3">
+<h3>Wait, so what’s evolving?</h3>
+<p>Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) …but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait ‘space’ – the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would <strong>expect</strong> to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us … (<a href="">I tried this for a Data Analytics class project</a>)</p>
+</div>
 </div>
 </div>
 <div id="references" class="section level1">
