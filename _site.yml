@@ -35,4 +35,4 @@ navbar:
       icon: fa-github-alt
       href: https://github.com/nbone455      # CHANGE HERE 
 output:
-    rmdformats::readthedown
+    rmdformats::robobook

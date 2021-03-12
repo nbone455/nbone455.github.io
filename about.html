@@ -18,9 +18,9 @@
         <script src="site_libs/navigation-1.1/tabsets.js"></script>
         <link href="site_libs/magnific-popup-1.1.0/magnific-popup.css" rel="stylesheet" />
         <script src="site_libs/magnific-popup-1.1.0/jquery.magnific-popup.min.js"></script>
-        <link href="site_libs/readthedown-0.1/readthedown.css" rel="stylesheet" />
-        <link href="site_libs/readthedown-0.1/readthedown_fonts.css" rel="stylesheet" />
-        <script src="site_libs/readthedown-0.1/readthedown.js"></script>
+        <link href="site_libs/robobook-0.1/robobook.css" rel="stylesheet" />
+        <link href="site_libs/robobook-0.1/robobook_fonts_embed.css" rel="stylesheet" />
+        <script src="site_libs/robobook-0.1/robobook.js"></script>
         <script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
         <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
         <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
@@ -111,12 +111,30 @@
 <body class="preload">
 
    	
-         <!-- readthedown start -->   
-   <div id="content" data-toggle="wy-nav-shift">
-     <nav id="nav-top" role="navigation" aria-label="top navigation">
-       <a role="button" href="#" data-toggle="wy-nav-top"><span class="glyphicon glyphicon-menu-hamburger"></span></a>
-     </nav>
-         
+            <!-- robobook start -->   
+   <div class="book with-summary">
+      <div class="book-summary">
+        <ul>
+          <li class="title"></li>
+          <li class="divider"></li>
+        </ul>
+        <nav role="navigation" id="toc">
+          <ul>
+          <li><a href="#about">About</a></li>
+          </ul>
+        </nav>
+        <ul class="authors">
+          <li class="divider"></li>
+                            </ul>     
+      </div>
+      <div class="book-body fixed">
+        <div class="body-inner">
+            <a class="btn pull-left js-toolbar-action toggle-sidebar" aria-label="Toggle Sidebar" title="Toggle Sidebar" href="#">
+              <span class="glyphicon glyphicon-menu-hamburger"></span>
+            </a>
+            <div class="page-inner">
+              <section id="content" class="normal">
+      
    
       
       <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -209,49 +227,43 @@
       </div><!--/.navbar -->
         
       
-         <!-- readthedown authors -->
-   <div id="sidebar">
-    <h2><a href="#content"></a></h2>
-    <div id="toc">
-      <ul>
-      <li><a href="#about">About</a></li>
-      </ul>
-    </div>
-    <div id="postamble" data-toggle="wy-nav-shift" class="status">
-                </div>
-   </div>
-     
+        
 
    
       
    
 <!-- Don't indent these lines or it will mess pre blocks indentation --> 
-<div id="main">
 <p><br></p>
 <div id="about" class="section level1">
 <h1>About</h1>
 <div class="figure">
-<img src="smiley.jpg" style="width:80.0%" alt="" />
+<img src="smiley.jpg" alt="" />
 <p class="caption">trying not to fall</p>
 </div>
 <p>I’m a PhD student in the <a href="https://www.uyedalab.com/people.html">Uyeda lab</a> at Virginia Tech in the Evolutionary, Ecological and Behavioral Biology group. I started in Fall 2019 (good timing, eh?). Currently I am a <a href="https://www.nsfgrfp.org/">NSF GRFP</a> and <a href="https://www.globalchange.vt.edu/igc/">Interfaces of Global Change</a> fellow. I work on/with/sometimes against <a href="https://en.wikipedia.org/wiki/Phylogenetic_comparative_methods">phylogenetic comparative methods</a>.</p>
 <p>Before I was a PhD student I was an undergraduate at <a href="https://en.wikipedia.org/wiki/Beloit_College">Beloit College</a>, a tiny liberal arts college in Wisconsin. After taking an Evolution class and being exposed to phylogenies and crazy <a href="https://en.wikipedia.org/wiki/Fitness_landscape">landscapes of differential fitness</a>, I was hooked and became a evolutionary biology major. I kept bugging my professor (<a href="https://scholar.google.com/citations?user=qvHv7NwAAAAJ&amp;hl=en&amp;oi=sra">Jim Schulte</a>) with questions which eventually resulted in a three year research project trying to find <a href="https://peabody.yale.edu/exhibits/tree-of-life/convergent-evolution-recurrence-form">convergence</a> of body size in two lizard clades (<em>Lioleamus</em> and <em>Sceloporus</em>). During this project I was introduced to the joys of t rying to use phylogenetic comparative methods.</p>
 <p>Even before that, I was a nerdy Chicagoland kid who liked birding (mainly hawks and owls), making music and trying to figure out how to <a href="https://en.wikipedia.org/wiki/Port_forwarding">port-forward</a> so I could run my own Minecraft server. The hours of troubleshooting prepared me well for being a PhD student in a computational lab…</p>
-<p>My work now focuses on helping comparative biology answer more interesting questions by improving our methodology. This usually means making our computational methods match our biological assumptions and observations in order to get closer to the causes of macroevolutionary (large-scale) change. For instance, hard-to-encode traits (traits that don’t have easily quantifiable states, like behaviors) may evolve in ways which break our normal models of trait evolution, and yet we still sometimes ignore this mismatch. If we want to answer questions like ‘is the evolution of trait A <strong>caused</strong> by a change in trait B’, having a matching map and territory (model and biological reality) will help. These issues are the kinds of things I’m interested in.</p>
+<p>My work now focuses on helping comparative biology answer more interesting questions by improving our methodology. This usually means making our computational methods match our biological assumptions and observations in order to get closer to the causes of macroevolutionary (large-scale) change. For instance, hard-to-encode traits (traits that don’t have easily quantifiable states, like behaviors) may evolve in ways which break our normal models of trait evolution, and yet we still sometimes ignore this mismatch. If we want to answer questions like ‘is the evolution of trait A <strong>caused</strong> by a change in trait B’, having a strong match between our models and biological reality will help. These issues are the kinds of things I’m interested in.</p>
 <p>For my dissertation, I am attempting to represent one hard-to-encode trait, avian migration, using <a href="research.html">structured hidden Markov models</a>.</p>
 <p><br></p>
-</div>
 </div>
 
    
    
-            
+           </section>
+  </div>
+  </div>
+  </div>
+  </div>
+      
       
 
   <script>
     $(document).ready(function () {
 
-			
+		// add bootstrap table styles to pandoc tables
+	$('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+		
  		
 	    });
   </script>

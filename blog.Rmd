@@ -1,7 +1,9 @@
 ---
-title: "Blog"
-output: rmdformats::downcute
+title: ""
 ---
+<br>
+
+<br>
 
 This will be a mostly empty place, which is for the best!
 

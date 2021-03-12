@@ -1,9 +1,5 @@
 ---
 title: ""
-output: 
-    rmdformats::readthedown:
-      highlight: tango
-      toc_depth: 5
 ---
 
 <br> 
