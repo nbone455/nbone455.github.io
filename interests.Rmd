@@ -99,6 +99,7 @@ Growing up I had the privilege of regularly going to both the Milwaukee Public M
 
 Books I've read in the last couple years that have made a substantial impact on how I thought about whatever subject:
 
+
 * [The Book of Why](http://bayes.cs.ucla.edu/WHY/) by Judea Pearl and Dana Mackenzie
 
 * [Red White and Black](https://www.dukeupress.edu/red-white-and-black) by Frank B. Wilderson III
@@ -109,7 +110,7 @@ Books I've read in the last couple years that have made a substantial impact on 
 
 * [Psychopolitics](https://www.penguinrandomhouse.com/books/557122/psychopolitics-by-byung-chul-han/) by Byung-Chul Han
 
-* [The Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death) by Ernest Becker **this book ruined my sophomore year of college**
+* [The Denial of Death](https://en.wikipedia.org/wiki/The_Denial_of_Death) by Ernest Becker 
 
 
 #### Thinkers (Living)
@@ -140,9 +141,12 @@ Here are some living philosophical thinkers that are interesting to me.
 
 ### Open-source software
 
-* vim + pandoc + RMarkdown is amazing for creating documents (my vim [config](https://github.com/nbone455/personal-config))
+* [vim](https://www.vim.org/) + [pandoc](https://pandoc.org/) + [RMarkdown](https://rmarkdown.rstudio.com/) is amazing for creating documents (my vim [config](https://github.com/nbone455/personal-config))
 
 * I like [ranger](https://ranger.github.io/) cause I have gotten used to vim. If you don't like vim you won't like this. Apparently [lf](https://github.com/gokcehan/lf) is similar but faster (ranger is a lil bit slow)
 
-* huge repository of minimal software (https://suckless.org/)
+* [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) for downloading youtube videos as different file types (useful for remixes)
+
+
+* huge repository of minimal software here (https://suckless.org/)
 
