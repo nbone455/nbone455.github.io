@@ -10,19 +10,19 @@ output:
 
 # Research interests
 
-I'm generally interested in making better methods for evolutionary biology via the use of new tools from computer science and statistics. So far this has included: using machine learning to classify traits based on citizen science datasets, finding the best way to model the evolution of complex discrete phenotypes, and figuring out how to represent phylogenetic information in  standard classification algorithms. 
+I'm generally interested in making better methods for evolutionary biology via the use of new tools from computer science and statistics. So far this has included: using machine learning to classify traits based on citizen science datasets, finding the best way to model the evolution of complex discrete phenotypes, and figuring out how to represent phylogenetic information in standard classification algorithms. 
 
 **This page is in progress (and will be for a while, lol)**
 
 ## Dissertation Research
 
-Currently my disseration research focuses on finding better ways to model the evolution of hard-to-encode traits. 
+Currently my dissertation research focuses on finding better ways to model the evolution of hard-to-encode traits. 
 
 ### What is a hard-to-encode trait?
 
-When comparative biologists want to model the evolution of phenotypic traits across a phylogeny, they have to make some decisions about how to describe and quantify that trait. This is called [character construction](https://www.britannica.com/science/character-biology) and it usually is pretty arbitrary, based on whatever the researcher is interested in, which can ocassionally cause problems. Let's use avian migration as an example trait since birds are cool (no citation needed). 
+When comparative biologists want to model the evolution of phenotypic traits across a phylogeny, they have to make some decisions about how to describe and quantify that trait. This is called [character construction](https://www.britannica.com/science/character-biology) and it usually is pretty arbitrary, based on whatever the researcher is interested in (which can occasionally cause problems). Think of this as loaded priors -- beliefs you have about some phenomenon that you hold so strongly it influences your results. Let's use avian migration as an example trait since birds are cool (no citation needed). 
 
-You probably know that some bird species migrate huge distances every year like clockwork. Warblers, for instance, leave Northern North America in the fall to spend the winter in Central & South America, then predictably return each spring.
+You probably know that some bird species migrate huge distances every year like clockwork. Some warblers, for instance, leave Northern North America in the fall to spend the winter in Central & South America, then predictably return each spring.
 
 
 ```{r, fig.align="center", echo=FALSE, out.width="70%", out.height="70%", fig.cap="Warbler migratory paths, Toews et al. 2019"}
@@ -30,16 +30,19 @@ knitr::include_graphics("pnas_f1.jpg")
 ```
 
 
-These birds are considered an example of a 'regular' or 'obligate' migrant. This means that the timing of when they they leave, the path they travel and where they end up stays  basically the same year-to-year, within a population. Now people that study certain groups of birds may disagree with the specifics of this definition, which is exactly why migration is such a difficult character/trait to encode.
+These birds are considered an example of a 'regular' or 'obligate' migrant. This means that the timing of when they they leave, the path they travel and where they end up stays basically the same year-to-year, within a population. Now people that study certain groups of birds may disagree with the specifics of this definition, which is exactly why migration is such a difficult character/trait to encode.
 
-Other birds may migrate more erratically: leaving at seemingly randomly times, following different paths and/or ending up in very different places year-to-year. Some may not migrate at all one year (or couple of years) and migrate regularly for another series of years. These irregular migrants are categorized into .... but the group of non-regular migrants is usually called partial migration (as opposed to obligate migration). This includes a lot of lifestyles! 
+Other birds may migrate more erratically: leaving at seemingly randomly times, following different paths and/or ending up in very different places year-to-year. Some may not migrate at all one year and migrate regularly for another series of years. These irregular migrants are categorized into different categories (irruptive, irregular, nomadic) but the group of non-regular migrants is usually called partial migration (as opposed to obligate migration). That includes a lot of lifestyles! 
 
-Theres also non-migration (although there's a lot of ways to not migrate [as well](torpor link)) . Wew that's a lot. 
+Theres also non-migration, which is a bit simpler (although there's a lot of ways to not migrate, like being able to withstand cold via physiological torpor). 
 
-### Wait, so what's evolving?
+The amount of variation here makes migration a difficult trait to encode -- is a bird that migrates only when a certain food source is scarce doing the same thing as a bird that migrates every year? 
 
-Okay so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. We can break migration down into Non-migratory (NM) and Migratory (M) ...but then are nomads in M or NM? We can keep them all separate, but that then complicates the trait 'space' -- the relationships and ontology of these traits. In other words, do we know the evolutionary relationship between these groups well enough to split them into groups that we would **expect** to evolve? Can a bird species evolve into a nomadic migration from being a resident, or does it need to be a migrant first? Maybe we can just run some sort of algorithm to classify them for us ... ([I tried this for a Data Analytics class project]())
+### Wait so how does migration evolve?
 
+Okay, so that seems like a lot of different ways to migrate! For someone who is interested in the evolution of traits, this can get messy fast. There's seems to be a lot of information missing from classifying birds as just either Migratory or Non-migratory. Maybe we can just write some sort of algorithm to classify them for us ... ([I tried this for a Data Analytics class project]()). 
+
+This is the problem statement of my dissertation: what do we do with traits like these within the context of comparative methods? And what can 'treating' the trait in that way tell us about the evolution of migratory behavior in birds? 
 
 # References 
 
